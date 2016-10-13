@@ -1,0 +1,8 @@
+[
+ {
+   "remote": "aokp",
+   "repository": "kernel_huawei_angler",
+   "target_path": "kernel/huawei/angler",
+   "revision": "nougat"
+ }
+]
